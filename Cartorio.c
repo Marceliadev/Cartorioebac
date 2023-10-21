@@ -5,9 +5,9 @@
 
 int registro() //Função responsável por cadastrar os usuários no sistema
 {
-//inicio da criação de variáveis/string
-char arquivo[40];
-char cpf[40];
+    //inicio da criação de variáveis/string
+    char arquivo[40];
+    char cpf[40];
     char nome[40];
     char sobrenome[40];
     char cargo[40];
